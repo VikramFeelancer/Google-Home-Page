@@ -1,3 +1,3 @@
 # Google-Home-Page
-This is Google Home Page Clone.
-#Author Vikram Kumar
+This is Google Home Page Clone.<br>
+Author Vikram Kumar
