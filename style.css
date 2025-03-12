@@ -59,3 +59,9 @@ button:hover {
     height: 28px;
     margin-top: 3px ;
 }
+
+.brand_logo{
+    display: grid;
+    place-items: center;
+    margin-top: 40px;
+}
